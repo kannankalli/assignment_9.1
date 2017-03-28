@@ -1,0 +1,4 @@
+pig -x mapreduce top10distributorbyvolumesold.pig
+pig -x mapreduce totalvolumebydistributor.pig
+pig -x mapreduce topsalesbyyearwithdistributorid.pig
+pig -x mapreduce leastsoldbydistributorname.pig
